@@ -1,0 +1,18 @@
+Welcome to 60 seconds to code where I show you how to code in 60 seconds or less. 
+Today you will learn how to install and run a code editor.
+
+Step 1 - To start, go to code.visualstudio.com/ and download the latest version of Visual Studio Code.
+
+Step 2 - Run the installer and follow the prompts until Visual Studio code is finished installing.
+
+Step 3 - Launch Visual Studio code and click the file icon and name the file HelloWorld.py
+
+Step 4 - Type print('Hello World') in the editor and click File > Save
+
+Step 5 - Click Terminal > New Terminal and type python helloworld.py and press enter 
+
+Congratulations, you've written and run your first python program in an editor.
+Try to code a little every day because CODE IS LIFE
+
+
+#tutorial on #howto install #VisualStudioCode and wrie your first #python program.  #60secondstocode #codeislife

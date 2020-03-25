@@ -1,0 +1,18 @@
+Welcome to 60 seconds to code where I show you how to code in 60 seconds or less. 
+Today you will learn how install and run Python.
+
+Step 1 - To start go to Python.org and download the latest version of python
+
+Step 2 - Run the python installer and follow the prompts until Python is finished installing.
+
+Step 3 - Launch your your command prompt by typing cmd.exe in your search box and press enter
+
+Step 4 - type python in your command prompt and press enter
+
+Step 5 - type print('Hello World!') in the python interpreter and press enter
+
+Congratulations, you've written your first line of code.
+Try to code a little every day because CODE IS LIFE
+
+
+In this #tutorial , I show you #howto install and run the #python interpreter in your computer in the first of #60secondstocode #codeislife
