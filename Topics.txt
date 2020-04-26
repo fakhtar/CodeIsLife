@@ -1,0 +1,12 @@
+For Loops 
+While Loops
+Boolean Logic
+Functions
+Breakpoints and debugging
+Classes
+Lambda Functions
+Files
+Exception Handling
+Testing
+PIP and packages
+

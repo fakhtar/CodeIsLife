@@ -1,4 +1,0 @@
-1) Creating variable
-
-2) Watching program execution and setting break points
-
