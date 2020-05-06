@@ -1,4 +1,3 @@
-For Loops 
 While Loops
 Boolean Logic
 Functions
@@ -9,4 +8,5 @@ Files
 Exception Handling
 Testing
 PIP and packages
-
+Recursion
+Binary Search
