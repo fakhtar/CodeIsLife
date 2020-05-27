@@ -1,4 +1,3 @@
-Boolean Logic
 Functions
 Breakpoints and debugging
 Classes
@@ -9,3 +8,12 @@ Testing
 PIP and packages
 Recursion
 Binary Search
+Data Abstraction
+Implementation hiding
+Algorithms
+Divide aond Conquer
+Fibonaci naive ercursive
+Fibonnnaci efficient
+GCD naive from 1 to a+b
+GCD efficient recursive
+Stress Testing Algorithms
