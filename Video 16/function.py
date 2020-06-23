@@ -5,5 +5,4 @@ def find_max(find_max_of):
             max = item
     return max
 print(find_max([0,2,11,4,6,7,8,9]))
-print(find_max([0,2,11,4,6,7,8,9]))
 print(find_max([0,2,111,4,6,7,8,219]))
