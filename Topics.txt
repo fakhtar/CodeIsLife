@@ -1,11 +1,10 @@
-Breakpoints and debugging
+Recursion
 Classes
 Lambda Functions
 Files
 Exception Handling
 Testing
 PIP and packages
-Recursion
 Binary Search
 Data Abstraction
 Implementation hiding
