@@ -1,4 +1,3 @@
-Classes
 Lambda Functions
 Files
 Exception Handling
