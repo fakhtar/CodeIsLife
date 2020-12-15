@@ -1,5 +1,3 @@
-Lambda Functions
-Files
 Exception Handling
 Testing
 PIP and packages
@@ -14,4 +12,7 @@ GCD naive from 1 to a+b
 GCD efficient recursive
 Stress Testing Algorithms
 Simple HTTP server Using Python
+Trie Data Structure
+Queue Data Structure
+Stack Data Structure
 Addtional coming..
